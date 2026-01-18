@@ -3,7 +3,7 @@ module github.com/bassosimone/dnscodec
 go 1.25.5
 
 require (
-	github.com/bassosimone/runtimex v0.0.0-20251217192325-70882b9ab4d3
+	github.com/bassosimone/runtimex v0.0.0-20260108162100-336f3823f6b7
 	github.com/miekg/dns v1.1.70
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/net v0.49.0
